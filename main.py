@@ -1,1 +1,1 @@
-print("Hello World – version mise à jour!")
+print("Hello du collaborateur")
